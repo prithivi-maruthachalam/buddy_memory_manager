@@ -1,0 +1,2 @@
+# Buddy Memory Manager
+A physical memory manager based on the the __buddy technique__. This is was initially used in my project [LumOS](https://github.com/prithivi-maruthachalam/OSD), an x86 operating system I am building from scratch.
